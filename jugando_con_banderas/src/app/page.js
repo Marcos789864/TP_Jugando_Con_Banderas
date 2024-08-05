@@ -17,7 +17,7 @@ export default function Home() {
      
     </div>
     <div className={styles.card}>
-      <h1>Ayuda</h1>
+      <Link href="/ayuda"> Ayuda </Link>
     </div>
   </main>
   );
